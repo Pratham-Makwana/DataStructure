@@ -54,7 +54,7 @@ public class CheckSorted {
     }
 
     public static void main(String[] args) {
-        int[] nums = { 3, 4, 5, 1, 2 };
+        int[] nums = {3, 4, 5, 1, 2};
         System.out.println(check(nums));
     }
 }

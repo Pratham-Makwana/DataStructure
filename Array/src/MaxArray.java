@@ -1,4 +1,4 @@
-`public class MaxArray {
+public class MaxArray {
     public static void main(String[] args) {
         int[] arr = {1,3,23,9,18};
         System.out.println(max(arr));

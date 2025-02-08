@@ -1,4 +1,3 @@
-package BinarySearch;
 
 // search the target element in thr Matrix is sorted in row and column wise
 import java.util.Arrays;

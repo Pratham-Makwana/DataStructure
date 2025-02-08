@@ -1,4 +1,4 @@
-package BinarySearch;
+
 // Find the Rotation count in Rotation sorted array
 // how many times the array is rotated its always pivot + 1 , pivot give the index value so need to add 1
 
